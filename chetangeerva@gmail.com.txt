@@ -1,0 +1,17 @@
+chetangeerva@gmail.com
+Vijaya@939096
+
+chmod 400 gv.pem
+ssh -i "gv.pem" ec2-user@10.0.2.66
+
+
+terraform import aws_s3_bucket.example example-bucket
+
+gopikeys:
+
+AKIAUAVGFIMD25H7K2NH
+
+vmWomRloC6HodJmFX8T5DE6tI7fK3gKIE30GjL04
+
+
+terraform import aws_s3_bucket.my_bucket manually-created-bucket-well-tech
